@@ -1,0 +1,30 @@
+body {
+   
+    background-color: #F5F6F7;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* Container Border */
+.container {
+    border: 2px solid #B22222;
+    border-radius: 2px;
+    
+    
+    }
+
+
+
+.card {
+    margin: 0 auto; 
+    float: none; 
+    margin-bottom: 10px; 
+}
+
+.fa-calendar{
+    color:  #44b3e0;
+}
+
+.fa-user-circle{
+    color:  #44b3e0;
+
+}
